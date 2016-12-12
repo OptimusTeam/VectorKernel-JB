@@ -44,5 +44,5 @@ const char linux_banner[] =
 
 const char linux_proc_banner[] =
 	"%s version %s"
-	" (" "JonasCardoso" "@" "VectorKernel-RC1" ")"
+	" (" "JonasCardoso" "@" "VectorKernel-RC2" ")"
 	" (" LINUX_COMPILER ") %s\n";
